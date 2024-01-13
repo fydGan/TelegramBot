@@ -18,7 +18,7 @@ from email.mime.multipart import MIMEMultipart
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-# -*- coding: utf-8 -*-
+
   
 
 api_id = 23780487
